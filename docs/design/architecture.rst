@@ -6,7 +6,7 @@ Wuking is composed of three primary components:
 2. Serverless Task Executors 
 3. Storage Manager
 
-.. image:: /images/WukongArchitecture.png
+.. image:: ../images/WukongArchitecture.png
    :width: 600
 
 The following sections will describe these components in greater detail. 
